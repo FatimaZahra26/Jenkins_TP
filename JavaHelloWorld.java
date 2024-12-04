@@ -1,3 +1,5 @@
 public class JavaHelloWorld{
-    
+    public static void main(String[] args) throws Exception {
+        System.out.println("hello world");
+    }
 }
